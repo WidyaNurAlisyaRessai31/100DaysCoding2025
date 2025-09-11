@@ -14,13 +14,6 @@ public class day04 {
         // [\"] mengizinkan penggunaan tanda kutip ganda di dalam string
         System.out.println("Dia berkata, \"Halo, apa kabar?\"");
 
-        // [\'] mengizinkan penggunaan tanda kutip tunggal
-        System.out.println('A');
-        // Menggunakan karakter tunggal 'A'
-        System.out.println("Ini adalah karakter \'A\'");
-        // Contoh di dalam string
-
-
         // [\\] digunakan untuk mencetak garis miring terbalik
         System.out.println("Jalur file: C:\\Users\\Public\\Document");
 
