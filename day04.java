@@ -11,7 +11,7 @@ public class day04 {
         // [\r] menimpa "Malam" dengan "Siang"
         System.out.println("Selamat Malam\rSelamat Siang");
 
-        // [\")] mengizinkan penggunaan tanda kutip ganda di dalam string
+        // [\"] mengizinkan penggunaan tanda kutip ganda di dalam string
         System.out.println("Dia berkata, \"Halo, apa kabar?\"");
 
         // [\'] mengizinkan penggunaan tanda kutip tunggal
