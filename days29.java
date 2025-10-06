@@ -1,4 +1,4 @@
-public class Days29 {
+public class days29 {
     public static void main(String[] args) {
         int angka1 = 15;
         int angka2 = 20;
