@@ -13,9 +13,9 @@ public class days34 {
 
         System.out.println( " kondisi1 :"+ kondisi1 );
         System.out.println( " kondisi2 :"+ kondisi2 );
-        System.out.println("Apakah a lebih besar dari b DAN c sama dengan 2? " + hasilLogika);
-        System.out.println("Apakah a lebih besar dari b DAN c sama dengan 2? " + atau);
-        System.out.println("Apakah a lebih besar dari b DAN c sama dengan 2? " + not);
+        System.out.println("hasilLogika);
+        System.out.println("atau);
+        System.out.println("not);
 
     }
 }
