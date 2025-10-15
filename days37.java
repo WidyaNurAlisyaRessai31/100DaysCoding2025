@@ -3,12 +3,12 @@ import java.util.Scanner;
 public class days37 {
     public static void main(String[] args) {
         Scanner ww = new Scanner(System.in);
-        System.out.print("Masukkan suhu : ");
-        int suhu =ww.nextInt();
-        if(suhu >= 38){
-            System.out.println("Suhu Tinggi");
+        System.out.print("Masukkan angka : ");
+        int angka =ww.nextInt();
+        if(angka % 2==0 ){
+            System.out.println( angka + "genap");
         }else{
-            System.out.println("Suhu Rendah");
+            System.out.println(angka + "ganjil");
         }
     }
 }
