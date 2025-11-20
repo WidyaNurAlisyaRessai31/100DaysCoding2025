@@ -34,8 +34,8 @@ public class days74{
             }
             if (pilihan != 4) {
                 System.out.println("\nTekan ENTER untuk melanjutkan...");
-                input.nextLine(); 
-                input.nextLine(); 
+                w.nextLine(); 
+                w.nextLine(); 
             }
         } while (pilihan != 4);
     }
